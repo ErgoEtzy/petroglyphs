@@ -18,11 +18,25 @@ Repository structure
 
 ```text
 
-petroglyphs/
-
-README.md
-
-petroglyphs/geographical area/individual inscription files
+📁 petroglyph
+├── 📁 Amtmannsnes
+├── 📁 Bossekop
+├── 📁 Bossekopberget
+├── 📁 Doarrás
+├── 📁 Hjemmeluft Hjemmeluft
+├── 📁 Hjemmeluft
+├── 📁 Isnestoften
+├── 📁 Kongshus
+├── 📁 Kråknes
+├── 📁 Kåfjord
+├── 📁 Nussura
+├── 📁 Storsteinen
+├── 📁 Svartskog
+├── 📁 Tollevik
+├── 📁 Transfarelv
+├── 📁 Årøya
+├── 📄 README.md
+└── 📄 desktop.ini
 
 ```
 
