@@ -35,8 +35,8 @@ Repository structure
 ├── 📁 Tollevik
 ├── 📁 Transfarelv
 ├── 📁 Årøya
-├── 📄 README.md
-└── 📄 desktop.ini
+└── 📄 README.md
+
 
 ```
 
