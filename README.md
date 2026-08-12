@@ -41,42 +41,6 @@ Repository structure
 ```
 
 
-
-File format
-
-\-----------
-
-
-
-Each petroglyph file can follow this general structure:
-
-
-
-```text
-
-Basic information
-
-
-
-Name:
-
-Location:
-
-Date/period:
-
-Object type:
-
-
-Notes
-
-
-
-Sources
-
-```
-
-
-
 License
 
 \-------
