@@ -7,6 +7,8 @@ Petroglyphs
 A collection of petroglyph notes with their pictures in Markdown format, made for importing in Obsidian.
 
 
+I have so far only imported Alta. I'm looking to import many more databases.
+
 
 
 
